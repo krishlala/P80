@@ -13,7 +13,7 @@ function submit()
 
     console.log(name_of_the_student_array);
 
-    var lenght_of_name_of_students_array = name_of_the_student_array.length;
+    var length_of_name_of_students_array = name_of_the_student_array.length;
     console.log(lenght_of_name_of_students_array);
 
     for (var k = 0; k < lenght_of_name_of_students_array; k++) 
